@@ -1,6 +1,6 @@
 import sys
 from PIL import Image
-# Image-Data-to-Text-Convertor (IDE)
+# Image-Data-to-Text-Convertor (IDTC)
 # Made in 20 August 2024 by Ayonstudy :)
 # This program converts Image pixel data into text form. More specifically, it just makes a seperate text file with data about the image.
 # The program requires one parameter --> The name of the image file (e.g. image.png)
