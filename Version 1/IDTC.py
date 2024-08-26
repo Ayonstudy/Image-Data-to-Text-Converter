@@ -4,7 +4,7 @@ from PIL import Image
 # Made in 20 August 2024 by Ayonstudy :)
 # This program converts Image pixel data into text form, more specifically just makes a seperate text file with data about the image.
 # The program requires one parameter --> The name of the image file (e.g. image.png)
-# Example of running command         --> "IDTC image.png" or "./IDTC image.png"
+# Example of running command         --> "IDTC.py image.png" or "./IDTC.py image.png"
 # The image file has to be in the same directory as the IDTC.py file.
 # After running the program, the data will be saved onto the image-data.txt file which will be created after the process is finished.
 # The first line in the image-data.txt file will be width and hieght respectively
