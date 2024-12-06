@@ -6,6 +6,7 @@ from PIL import Image
 # The program has two parameters
 # The first arguement is compulsory, it is the name of the image file (e.g. image.png)
 # The second arguement is optional, it is the name of the final file to be given where the data will be saved to (e.g. file.txt) [the default is "image-data.txt"]
+# WARNING: If the final file is an already existing file, the data in it will be whipped out and you'll lose your data. Forever! unless backed up :)
 # Example of running command         --> "IDTC image.png file.txt" or "./IDTC.py image.png"
 # After running the program, the data will be saved onto the image-data.txt file or the file name you will give as the second arguement.
 # The first line in the text file will be width and hieght respectively
